@@ -1,6 +1,6 @@
 # Zowe CLI quick start
 
-XXXXX 
+removing XXXXX
 
 Get started with Zowe CLI quickly and easily.
 
